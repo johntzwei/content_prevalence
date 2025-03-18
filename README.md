@@ -1,9 +1,9 @@
 # Operationalizing content moderation "accuracy" in the Digital Services Act
 
-Code and data for our [paper](https://arxiv.org/pdf/2305.09601.pdf), published at AIES'24.
+Data and code for our [paper](https://arxiv.org/pdf/2305.09601.pdf) published at AIES'24.
 
 You can use this bib entry to cite our paper:
-``
+```
 @inproceedings{DBLP:conf/aies/WeiZJ24,
   author       = {Johnny Tian{-}Zheng Wei and
                   Frederike Zufall and
@@ -27,4 +27,4 @@ You can use this bib entry to cite our paper:
   biburl       = {https://dblp.org/rec/conf/aies/WeiZJ24.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-``
+```
